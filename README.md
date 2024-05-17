@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on many projects
+- 🌱 I’m currently learning cloud basics
+- 👯 I’m looking to collaborate on new open source projects
+- 🤔 I’m looking for help with new job posts
+- 💬 Ask me about Java , typescript , tailwind , NextJS , React,
+
