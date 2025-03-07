@@ -1,25 +1,34 @@
-### Hi there 👋
+# Bonjour, je suis NickKengne 👋
 
-<!--
-**NickKengne/NickKengne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui travaille sur de nombreux projets innovants et open source.
 
-Here are some ideas to get you started:
+## À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Projets Actuels :** Je travaille actuellement sur plusieurs projets open source.
+- 🌱 **En apprentissage :** Je me perfectionne dans les bases du cloud.
+- 👯 **Collaborations :** Je suis toujours à la recherche de nouvelles collaborations sur des projets open source.
+- 🤔 **Recherche d'aide :** Je suis ouvert aux propositions pour de nouveaux défis professionnels.
+- 💬 **Expertise :** N'hésitez pas à me poser des questions sur Java et TypeScript.
 
-Here are some ideas to get you started:
+## Mes Statistiques GitHub
 
-- 🔭 I’m currently working on many projects
-- 🌱 I’m currently learning cloud basics
-- 👯 I’m looking to collaborate on new open source projects
-- 🤔 I’m looking for help with new job posts
-- 💬 Ask me about Java , typescript
+<!-- Statistiques globales -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NickKengne&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Top Langages utilisés -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickKengne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Trophées GitHub -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NickKengne&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Connecte-toi avec moi
+
+- [GitHub](https://github.com/NickKengne)
+- [LinkedIn](https://www.linkedin.com/in/tonprofil) <!-- Remplacer par ton profil LinkedIn -->
+- [Email](mailto:ton.email@example.com) <!-- Remplacer par ton adresse e-mail -->
+
+## Fun Fact
+
+J'adore explorer de nouvelles technologies et partager mes découvertes avec la communauté. N'hésite pas à contribuer ou à me contacter pour toute collaboration !
+
+---
