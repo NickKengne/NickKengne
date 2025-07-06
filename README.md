@@ -1,34 +1,35 @@
-# Bonjour, je suis NickKengne 👋
+# 👋 Hello, I’m Nick Kengne
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur passionné qui travaille sur de nombreux projets innovants et open source.
+Welcome to my GitHub profile! I’m a passionate full-stack developer who enjoys working on innovative and open-source projects.
 
-## À propos de moi
+## About Me
 
-- 🔭 **Projets Actuels :** Je travaille actuellement sur plusieurs projets open source.
-- 🌱 **En apprentissage :** Je me perfectionne dans les bases du cloud.
-- 👯 **Collaborations :** Je suis toujours à la recherche de nouvelles collaborations sur des projets open source.
-- 🤔 **Recherche d'aide :** Je suis ouvert aux propositions pour de nouveaux défis professionnels.
-- 💬 **Expertise :** N'hésitez pas à me poser des questions sur Java et TypeScript.
+- 🔭 **Current Projects:** Actively working on several open-source and personal projects focused on user experience, scalability, and clean architecture.
+- 🌱 **Learning:** Deepening my skills in cloud infrastructure and DevOps practices.
+- 👯 **Collaboration:** Always open to collaborating on meaningful, impactful projects.
+- 🤝 **Looking for Opportunities:** Open to new professional challenges and freelance missions.
+- 💬 **Expertise:** Feel free to ask me about Java, TypeScript, React, React Native, or Spring Boot.
 
-## Mes Statistiques GitHub
+## GitHub Stats
 
-<!-- Statistiques globales -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NickKengne&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Overall stats -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NickKengne&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Top Langages utilisés -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickKengne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Top languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickKengne&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Trophées GitHub -->
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NickKengne&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophies -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NickKengne&no-frame=true&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Connecte-toi avec moi
+## Connect with Me
 
-- [GitHub](https://github.com/NickKengne)
-- [LinkedIn](https://www.linkedin.com/in/tonprofil) <!-- Remplacer par ton profil LinkedIn -->
-- [Email](mailto:ton.email@example.com) <!-- Remplacer par ton adresse e-mail -->
+- [LinkedIn](https://www.linkedin.com/in/nick-kengne-b7752924b/)  
+- [GitHub](https://github.com/NickKengne)  
+- [Email](mailto:nickdk294@gmail.com)  
 
 ## Fun Fact
 
-J'adore explorer de nouvelles technologies et partager mes découvertes avec la communauté. N'hésite pas à contribuer ou à me contacter pour toute collaboration !
+I love exploring new technologies and sharing my discoveries with the community. Feel free to contribute to my projects or reach out if you’d like to collaborate!
 
 ---
+
